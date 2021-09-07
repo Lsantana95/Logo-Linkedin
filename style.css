@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    position: relative;
+    width: 260px;
+    height: 260px;
+    overflow: hidden;
+    background: rgb(5.49%, 46.27%, 65.88%);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-logo {
+    color: white;
+    font-size: 250px;
+    font-weight: bold;
+}
